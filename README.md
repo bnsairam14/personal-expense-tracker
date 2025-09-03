@@ -19,3 +19,9 @@ It is designed with Indian expenses in mind (e.g., groceries, utilities, rent, f
 2. Category totals are calculated with:  
    ```excel
    =SUMIF(CategoryRange, "Food", AmountRange)
+## 👨‍💻 About Me
+**B.N. Sairam**  
+🎓 BE Computer Science (2019–2023) – Prince Shri Venkateshwara Padmavathy Engineering College — **8.5 CGPA**  
+🎓 ME Software Engineering (2023–2025) – Anna University CEG — **7.78 CGPA**  
+
+💡 Passionate about **Data Analysis, Software Engineering, and Problem Solving**.  
